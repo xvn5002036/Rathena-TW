@@ -1,0 +1,155 @@
+(01/26/2017 18:25:46) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:26:17) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:27:22) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:27:33) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:29:30) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:37:03) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:37:14) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:37:25) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:37:36) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:41:33) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:41:44) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:41:55) [ Error ] : make_connection: ¥Ñ©ó¶W®É¦Ó³s±µ¥¢±Ñ (®M±µ¦r #2)!
+(01/26/2017 18:51:10) [ SQL Error ] : Access denied for user 'rAthenaCN'@'localhost' (using password: YES)
+(01/26/2017 18:51:10) [ Error ] : Couldn't connect with username = 'rAthenaCN', password = 'rAthenaCN123', host = '127.0.0.1', port = '3306', database = 'rathenacn_main'
+(01/26/2017 18:51:10) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/26/2017 18:58:33) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 18:58:33) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/26/2017 18:58:56) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 19:01:49) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 19:11:39) [ SQL Error ] : Access denied for user 'goko500'@'localhost' (using password: YES)
+(01/26/2017 19:11:39) [ Error ] : Couldn't connect with username = 'goko500', password = '112221', host = '127.0.0.1', port = '3306', database = 'romain'
+(01/26/2017 19:11:39) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/26/2017 19:11:52) [ SQL Error ] : Access denied for user 'goko500'@'localhost' (using password: YES)
+(01/26/2017 19:11:52) [ Error ] : Couldn't connect with username = 'goko500', password = '112221', host = '127.0.0.1', port = '3306', database = 'romain'
+(01/26/2017 19:11:52) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/26/2017 19:12:06) [ SQL Error ] : Access denied for user 'goko500'@'localhost' (using password: YES)
+(01/26/2017 19:12:06) [ Error ] : Couldn't connect with username = 'goko500', password = '112221', host = '127.0.0.1', port = '3306', database = 'romain'
+(01/26/2017 19:12:06) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/26/2017 19:12:15) [ SQL Error ] : Access denied for user 'goko500'@'localhost' (using password: YES)
+(01/26/2017 19:12:15) [ Error ] : Couldn't connect with username = 'goko500', password = '112221', host = '127.0.0.1', port = '3306', database = 'romain'
+(01/26/2017 19:12:15) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/26/2017 19:15:10) [ SQL Error ] : Access denied for user 'goko500'@'localhost' (using password: YES)
+(01/26/2017 19:15:10) [ Error ] : Couldn't connect with username = 'goko500', password = '112221', host = '127.0.0.1', port = '3306', database = 'romain'
+(01/26/2017 19:15:10) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/26/2017 19:16:34) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 19:21:37) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 19:21:37) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/26/2017 19:22:14) [ Error ] : make_listen_bind: bind failed (socket #1, ¿ù»~½X¬° 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+)!
+(01/26/2017 19:22:55) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 19:22:55) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/26/2017 19:32:17) [ SQL Error ] : Access denied for user 'rAthenaCN'@'localhost' (using password: YES)
+(01/26/2017 19:32:17) [ Error ] : Couldn't connect with username = 'rAthenaCN', password = 'rAthenaCN123', host = '127.0.0.1', port = '3306', database = 'rathenacn_main'
+(01/26/2017 19:32:17) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/26/2017 20:02:25) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 20:02:25) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/26/2017 20:25:53) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 20:25:54) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/26/2017 20:25:54) [ Debug ] : at ..\src\char\char_mapif.c:1648 - DELETE FROM `ragsrvinfo` WHERE `index`='-1'
+(01/26/2017 20:25:55) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/26/2017 20:25:55) [ Debug ] : at ..\src\char\char_mapif.c:1648 - DELETE FROM `ragsrvinfo` WHERE `index`='-1'
+(01/26/2017 20:25:56) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/26/2017 20:25:56) [ Debug ] : at ..\src\char\char_mapif.c:1648 - DELETE FROM `ragsrvinfo` WHERE `index`='-1'
+(01/26/2017 20:25:57) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/26/2017 20:25:57) [ Debug ] : at ..\src\char\char_mapif.c:1648 - DELETE FROM `ragsrvinfo` WHERE `index`='-1'
+(01/26/2017 20:37:36) [ SQL Error ] : Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/26/2017 20:37:36) [ Error ] : Couldn't connect with username = 'goko500', password = '112221', host = '127.0.0.1', port = '3306', database = 'romain'
+(01/26/2017 20:37:36) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/26/2017 20:38:29) [ SQL Error ] : Access denied for user 'roid'@'localhost' (using password: YES)
+(01/26/2017 20:38:29) [ Error ] : Couldn't connect with username = 'roid', password = 'ropw', host = '127.0.0.1', port = '3307', database = 'romain'
+(01/26/2017 20:38:29) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/26/2017 20:39:17) [ SQL Error ] : Access denied for user 'roid'@'localhost' (using password: YES)
+(01/26/2017 20:39:17) [ Error ] : Couldn't connect with username = 'roid', password = 'ropw', host = '127.0.0.1', port = '3307', database = 'romain'
+(01/26/2017 20:39:17) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/26/2017 20:53:42) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 20:53:42) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/26/2017 20:53:42) [ SQL Error ] : DB error - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'g' at line 1
+(01/26/2017 20:53:42) [ SQL Error ] : DB error - Lost connection to MySQL server during query
+(01/26/2017 20:53:42) [ Debug ] : at ..\src\char\char.c:152 - DELETE FROM `ragsrvinfo` WHERE `index`='-1'
+(01/26/2017 20:53:42) [ Debug ] : at ..\src\char\char_mapif.c:1648 - DELETE FROM `ragsrvinfo` WHERE `index`='-1'
+(01/26/2017 20:59:33) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 21:00:59) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 21:10:48) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 21:12:11) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 21:22:06) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 21:22:28) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 21:22:33) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 21:22:33) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/26/2017 21:22:50) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 21:23:18) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 21:43:20) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 21:50:26) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 21:50:46) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 22:06:22) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 22:11:38) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 22:29:13) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/26/2017 23:12:05) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 23:12:05) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/26/2017 23:40:45) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 23:40:45) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/26/2017 23:57:04) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/26/2017 23:57:04) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/27/2017 00:05:40) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/27/2017 00:05:41) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/27/2017 00:05:41) [ Debug ] : at ..\src\char\char_mapif.c:1648 - DELETE FROM `ragsrvinfo` WHERE `index`='-1'
+(01/27/2017 00:05:41) [ Debug ] : at ..\src\char\char_mapif.c:1648 - DELETE FROM `ragsrvinfo` WHERE `index`='-1'
+(01/27/2017 00:05:41) [ Error ] : Memory manager: args of aFree 0x01B1F1CC is invalid pointer ..\src\common\showmsg.c line 812
+(01/27/2017 00:05:42) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/27/2017 00:05:42) [ Debug ] : at ..\src\char\char_mapif.c:1648 - DELETE FROM `ragsrvinfo` WHERE `index`='-1'
+(01/27/2017 00:05:43) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/27/2017 00:05:43) [ Debug ] : at ..\src\char\char_mapif.c:1648 - DELETE FROM `ragsrvinfo` WHERE `index`='-1'
+(01/27/2017 00:05:44) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/27/2017 00:05:44) [ Debug ] : at ..\src\char\char_mapif.c:1648 - DELETE FROM `ragsrvinfo` WHERE `index`='-1'
+(01/27/2017 00:06:44) [ SQL Error ] : Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/27/2017 00:06:44) [ Error ] : Couldn't connect with username = 'roid', password = 'ropw', host = '127.0.0.1', port = '3307', database = 'romain'
+(01/27/2017 00:06:44) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/27/2017 00:42:43) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/27/2017 00:57:27) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/27/2017 01:23:52) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/27/2017 02:12:24) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/27/2017 04:10:38) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/27/2017 04:16:42) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/27/2017 04:16:42) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/27/2017 17:32:05) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/27/2017 17:32:05) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/27/2017 18:39:04) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/27/2017 18:48:56) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 107, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/27/2017 18:59:19) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/27/2017 18:59:19) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)
+(01/27/2017 20:28:24) [ SQL Error ] : Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/27/2017 20:28:24) [ Error ] : Couldn't connect with username = 'roid', password = 'ropw', host = '127.0.0.1', port = '3307', database = 'romain'
+(01/27/2017 20:28:24) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/27/2017 20:28:39) [ SQL Error ] : Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/27/2017 20:28:39) [ Error ] : Couldn't connect with username = 'roid', password = 'ropw', host = '127.0.0.1', port = '3307', database = 'romain'
+(01/27/2017 20:28:39) [ Debug ] : ¥X¿ù¥N½X¦ì©ó ..\src\char\inter.c ¤å¥óªº²Ä 910 ¦æ
+(01/27/2017 20:38:37) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 55, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/27/2017 21:09:32) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 55, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/27/2017 21:10:30) [ Error ] : parse_char: Received unknown packet [1;37m0x107a[0m from ip '[1;37m127.0.0.1[0m'! Disconnecting!
+(01/27/2017 21:43:31) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 55, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/27/2017 22:15:09) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 55, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/27/2017 22:22:07) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 55, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/27/2017 22:22:48) [ Warning ] : µo²{½s¸¹¬° 2000000 ªº½ã¸¹¦b clientinfo ¤¤°t¸mªº<version>¦r¬q°t¸mªºª©¥»¬° 55, ¦ÓªA°ÈºÝµ{§Ç³Q½sÄ¶¦¨¥u­Ý®e 45 ª©¥», ½ÐÁpÃ´ª±®a­×§ï clientinfo ¤å¥ó.
+(01/27/2017 22:22:56) [ Error ] : parse_char: Received unknown packet [1;37m0x107a[0m from ip '[1;37m127.0.0.1[0m'! Disconnecting!
+(01/27/2017 22:30:07) [ Warning ] : ¥á¥¢»Pµn¿ýªA°È¾¹¤§¶¡ªº³s±µ.
+
+(01/27/2017 22:30:07) [ Debug ] : parse_frommap: ¥¿¦bÂ_¶}³s±µ½s¸¹¬° #3 ªºµL®Ä·|¸Ü (¥¦¤£¬O¦a¹ÏªA°È¾¹)

@@ -1,0 +1,105 @@
+(01/26/2017 18:25:35) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:25:35) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:25:35) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:26:06) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:26:06) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:26:06) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:26:21) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:26:21) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:26:21) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:27:11) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:27:11) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:27:11) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:27:26) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:27:26) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:27:26) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:29:19) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:29:19) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:29:19) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:36:07) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:36:07) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:36:07) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:36:42) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:36:42) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:36:42) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:36:52) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:36:52) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:36:52) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:37:06) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:37:06) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:37:06) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:37:20) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:37:20) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:37:20) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:37:35) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:37:35) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:37:35) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:41:22) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:41:22) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:41:22) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:41:36) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:41:36) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:41:36) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:41:50) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:41:50) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:41:50) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:44:19) [ SQL Error ] : Access denied for user 'root'@'localhost' (using password: YES)
+(01/26/2017 18:44:19) [ Error ] : 無法使用您提供的 MySQL訪問賬號='root', MySQL訪問密碼='ragnarok', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='ro' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:44:19) [ Debug ] : 出錯代碼位於 ..\src\login\account.c 文件的第 130 行
+(01/26/2017 18:51:10) [ SQL Error ] : Access denied for user 'rAthenaCN'@'localhost' (using password: YES)
+(01/26/2017 18:51:10) [ Error ] : 無法使用您提供的 MySQL訪問賬號='rAthenaCN', MySQL訪問密碼='rAthenaCN123', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='rathenacn_logs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 18:51:10) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/26/2017 19:11:39) [ SQL Error ] : Access denied for user 'goko500'@'localhost' (using password: YES)
+(01/26/2017 19:11:39) [ Error ] : 無法使用您提供的 MySQL訪問賬號='goko500', MySQL訪問密碼='112221', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='rologs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 19:11:39) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/26/2017 19:11:52) [ SQL Error ] : Access denied for user 'goko500'@'localhost' (using password: YES)
+(01/26/2017 19:11:52) [ Error ] : 無法使用您提供的 MySQL訪問賬號='goko500', MySQL訪問密碼='112221', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='rologs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 19:11:52) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/26/2017 19:12:06) [ SQL Error ] : Access denied for user 'goko500'@'localhost' (using password: YES)
+(01/26/2017 19:12:06) [ Error ] : 無法使用您提供的 MySQL訪問賬號='goko500', MySQL訪問密碼='112221', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='rologs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 19:12:06) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/26/2017 19:12:15) [ SQL Error ] : Access denied for user 'goko500'@'localhost' (using password: YES)
+(01/26/2017 19:12:15) [ Error ] : 無法使用您提供的 MySQL訪問賬號='goko500', MySQL訪問密碼='112221', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='rologs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 19:12:15) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/26/2017 19:15:10) [ SQL Error ] : Access denied for user 'goko500'@'localhost' (using password: YES)
+(01/26/2017 19:15:10) [ Error ] : 無法使用您提供的 MySQL訪問賬號='goko500', MySQL訪問密碼='112221', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='rologs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 19:15:10) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/26/2017 19:22:14) [ Error ] : make_listen_bind: bind failed (socket #1, 錯誤碼為 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+)!
+(01/26/2017 19:32:17) [ SQL Error ] : Access denied for user 'rAthenaCN'@'localhost' (using password: YES)
+(01/26/2017 19:32:17) [ Error ] : 無法使用您提供的 MySQL訪問賬號='rAthenaCN', MySQL訪問密碼='rAthenaCN123', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='rathenacn_logs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 19:32:17) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/26/2017 20:20:27) [ SQL Error ] : DB error - Table 'romain.ipbanlist' doesn't exist
+(01/26/2017 20:20:27) [ Debug ] : at ..\src\login\ipban.c:107 - DELETE FROM `ipbanlist` WHERE `rtime` <= NOW()
+(01/26/2017 20:21:28) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/26/2017 20:21:28) [ Debug ] : at ..\src\login\ipban.c:107 - DELETE FROM `ipbanlist` WHERE `rtime` <= NOW()
+(01/26/2017 20:22:28) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/26/2017 20:22:28) [ Debug ] : at ..\src\login\ipban.c:107 - DELETE FROM `ipbanlist` WHERE `rtime` <= NOW()
+(01/26/2017 20:23:28) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/26/2017 20:23:28) [ Debug ] : at ..\src\login\ipban.c:107 - DELETE FROM `ipbanlist` WHERE `rtime` <= NOW()
+(01/26/2017 20:24:28) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/26/2017 20:24:28) [ Debug ] : at ..\src\login\ipban.c:107 - DELETE FROM `ipbanlist` WHERE `rtime` <= NOW()
+(01/26/2017 20:25:28) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/26/2017 20:25:28) [ Debug ] : at ..\src\login\ipban.c:107 - DELETE FROM `ipbanlist` WHERE `rtime` <= NOW()
+(01/26/2017 20:37:36) [ SQL Error ] : Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/26/2017 20:37:36) [ Error ] : 無法使用您提供的 MySQL訪問賬號='goko500', MySQL訪問密碼='112221', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3306', 數據庫名稱='rologs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 20:37:36) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/26/2017 20:38:29) [ SQL Error ] : Access denied for user 'roid'@'localhost' (using password: YES)
+(01/26/2017 20:38:29) [ Error ] : 無法使用您提供的 MySQL訪問賬號='roid', MySQL訪問密碼='ropw', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3307', 數據庫名稱='rologs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 20:38:29) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/26/2017 20:39:17) [ SQL Error ] : Access denied for user 'roid'@'localhost' (using password: YES)
+(01/26/2017 20:39:17) [ Error ] : 無法使用您提供的 MySQL訪問賬號='roid', MySQL訪問密碼='ropw', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3307', 數據庫名稱='rologs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/26/2017 20:39:17) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/27/2017 00:05:12) [ SQL Error ] : DB error - Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/27/2017 00:05:12) [ Debug ] : at ..\src\login\ipban.c:107 - DELETE FROM `ipbanlist` WHERE `rtime` <= NOW()
+(01/27/2017 00:06:44) [ SQL Error ] : Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/27/2017 00:06:44) [ Error ] : 無法使用您提供的 MySQL訪問賬號='roid', MySQL訪問密碼='ropw', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3307', 數據庫名稱='rologs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/27/2017 00:06:44) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/27/2017 17:29:44) [ SQL Error ] : DB error - Table 'romain.ipbanlist' doesn't exist
+(01/27/2017 17:29:44) [ Debug ] : at ..\src\login\ipban.c:107 - DELETE FROM `ipbanlist` WHERE `rtime` <= NOW()
+(01/27/2017 20:28:24) [ SQL Error ] : Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/27/2017 20:28:24) [ Error ] : 無法使用您提供的 MySQL訪問賬號='roid', MySQL訪問密碼='ropw', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3307', 數據庫名稱='rologs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/27/2017 20:28:24) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
+(01/27/2017 20:28:39) [ SQL Error ] : Can't connect to MySQL server on '127.0.0.1' (10061)
+(01/27/2017 20:28:39) [ Error ] : 無法使用您提供的 MySQL訪問賬號='roid', MySQL訪問密碼='ropw', MySQL主機的IP地址='127.0.0.1', MySQL的端口='3307', 數據庫名稱='rologs' 來建立數據庫連接, 請檢查這些信息是否填寫有誤, 並到 inter_athena.conf 配置文件中更正這些信息.
+(01/27/2017 20:28:39) [ Debug ] : 出錯代碼位於 ..\src\login\loginlog.c 文件的第 193 行
